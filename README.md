@@ -1,2 +1,2 @@
 # Pong-in-FPGA
-Pong game made in Verilog.
+Pong game developed in Verilog .
